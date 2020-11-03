@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/credPage/static/css/main.0612b04b.chunk.css",
+    "main.js": "/credPage/static/js/main.4c039bda.chunk.js",
+    "main.js.map": "/credPage/static/js/main.4c039bda.chunk.js.map",
+    "runtime-main.js": "/credPage/static/js/runtime-main.38f61f63.js",
+    "runtime-main.js.map": "/credPage/static/js/runtime-main.38f61f63.js.map",
+    "static/js/2.888fa7cc.chunk.js": "/credPage/static/js/2.888fa7cc.chunk.js",
+    "static/js/2.888fa7cc.chunk.js.map": "/credPage/static/js/2.888fa7cc.chunk.js.map",
+    "static/js/3.c6d71ba0.chunk.js": "/credPage/static/js/3.c6d71ba0.chunk.js",
+    "static/js/3.c6d71ba0.chunk.js.map": "/credPage/static/js/3.c6d71ba0.chunk.js.map",
+    "index.html": "/credPage/index.html",
+    "static/css/main.0612b04b.chunk.css.map": "/credPage/static/css/main.0612b04b.chunk.css.map",
+    "static/js/2.888fa7cc.chunk.js.LICENSE.txt": "/credPage/static/js/2.888fa7cc.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/credPage/static/media/Screenshot 2020-11-01 at 4.47.13 PM.8598d0d3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38f61f63.js",
+    "static/js/2.888fa7cc.chunk.js",
+    "static/css/main.0612b04b.chunk.css",
+    "static/js/main.4c039bda.chunk.js"
+  ]
+}
